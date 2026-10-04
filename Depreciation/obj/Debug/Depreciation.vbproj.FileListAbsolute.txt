@@ -1,0 +1,14 @@
+C:\Users\jarri\OneDrive - Los Angeles Community College District\CS 111\JarrionHarris_Module8\JarrionHarris_FinalProject\Depreciation\bin\Debug\Depreciation.exe.config
+C:\Users\jarri\OneDrive - Los Angeles Community College District\CS 111\JarrionHarris_Module8\JarrionHarris_FinalProject\Depreciation\bin\Debug\Depreciation.exe
+C:\Users\jarri\OneDrive - Los Angeles Community College District\CS 111\JarrionHarris_Module8\JarrionHarris_FinalProject\Depreciation\bin\Debug\Depreciation.pdb
+C:\Users\jarri\OneDrive - Los Angeles Community College District\CS 111\JarrionHarris_Module8\JarrionHarris_FinalProject\Depreciation\bin\Debug\Depreciation.xml
+C:\Users\jarri\OneDrive - Los Angeles Community College District\CS 111\JarrionHarris_Module8\JarrionHarris_FinalProject\Depreciation\obj\Debug\Depreciation.vbproj.AssemblyReference.cache
+C:\Users\jarri\OneDrive - Los Angeles Community College District\CS 111\JarrionHarris_Module8\JarrionHarris_FinalProject\Depreciation\obj\Debug\Depreciation.frmDepreciation.resources
+C:\Users\jarri\OneDrive - Los Angeles Community College District\CS 111\JarrionHarris_Module8\JarrionHarris_FinalProject\Depreciation\obj\Debug\Depreciation.frmDisplayInventory.resources
+C:\Users\jarri\OneDrive - Los Angeles Community College District\CS 111\JarrionHarris_Module8\JarrionHarris_FinalProject\Depreciation\obj\Debug\Depreciation.Form1.resources
+C:\Users\jarri\OneDrive - Los Angeles Community College District\CS 111\JarrionHarris_Module8\JarrionHarris_FinalProject\Depreciation\obj\Debug\Depreciation.Resources.resources
+C:\Users\jarri\OneDrive - Los Angeles Community College District\CS 111\JarrionHarris_Module8\JarrionHarris_FinalProject\Depreciation\obj\Debug\Depreciation.vbproj.GenerateResource.cache
+C:\Users\jarri\OneDrive - Los Angeles Community College District\CS 111\JarrionHarris_Module8\JarrionHarris_FinalProject\Depreciation\obj\Debug\Depreciation.vbproj.CoreCompileInputs.cache
+C:\Users\jarri\OneDrive - Los Angeles Community College District\CS 111\JarrionHarris_Module8\JarrionHarris_FinalProject\Depreciation\obj\Debug\Depreciation.exe
+C:\Users\jarri\OneDrive - Los Angeles Community College District\CS 111\JarrionHarris_Module8\JarrionHarris_FinalProject\Depreciation\obj\Debug\Depreciation.xml
+C:\Users\jarri\OneDrive - Los Angeles Community College District\CS 111\JarrionHarris_Module8\JarrionHarris_FinalProject\Depreciation\obj\Debug\Depreciation.pdb
